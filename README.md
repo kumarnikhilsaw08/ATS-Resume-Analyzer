@@ -1,4 +1,3 @@
-Got it — here’s a **shorter, natural-sounding README** for your ATS Resume Analyzer:
 
 ---
 
